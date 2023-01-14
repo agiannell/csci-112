@@ -1,0 +1,13 @@
+A person purchased an item for $21.17 at the store.
+They paid with a $100 dollar bill.
+The number of bills and coins used are as follows:
+
+  $20: 3
+  $10: 1
+   $5: 1
+   $1: 3
+ $.25: 3
+ $.10: 0
+ $.05: 1
+ $.01: 3
+

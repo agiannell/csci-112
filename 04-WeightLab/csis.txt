@@ -1,0 +1,10 @@
+The weight of a 200 lb person on different planets is as follows:
+
+   Mercury:  75.6 lbs
+     Venus: 181.4 lbs
+      Mars:  75.4 lbs
+   Jupiter: 472.0 lbs
+    Saturn: 183.2 lbs
+    Uranus: 177.8 lbs
+   Neptune: 224.0 lbs
+

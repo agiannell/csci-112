@@ -1,0 +1,39 @@
+Enter test scores: 
+78
+93
+45
+88
+89
+
+The average is 65.33
+--------------------
+
+
+Enter test scores: 
+87
+68
+100
+
+The average is 63.50
+--------------------
+
+
+Enter test scores: 
+84
+86
+90
+86
+96
+68
+82
+
+The average is 73.88
+--------------------
+
+
+Enter test scores: 
+
+The average is -1.00
+--------------------
+
+

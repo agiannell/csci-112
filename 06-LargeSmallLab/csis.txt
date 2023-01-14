@@ -1,0 +1,24 @@
+Please enter four numbers 
+28 44 66 82
+
+28 is the smallest number
+82 is the largest number
+
+Please enter four numbers 
+8 14 22 6
+
+6 is the smallest number
+22 is the largest number
+
+Please enter four numbers 
+21 38 12 16
+
+12 is the smallest number
+38 is the largest number
+
+Please enter four numbers 
+98 22 45 63
+
+22 is the smallest number
+98 is the largest number
+

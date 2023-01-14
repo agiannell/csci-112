@@ -1,0 +1,16 @@
+Enter your weight in pounds: 
+Enter your height in inches: 
+Your BMI is 25.1, which means you are Overweight
+
+Enter your weight in pounds: 
+Enter your height in inches: 
+Your BMI is 18.2, which means you are Underweight
+
+Enter your weight in pounds: 
+Enter your height in inches: 
+Your BMI is 37.4, which means you are Obese
+
+Enter your weight in pounds: 
+Enter your height in inches: 
+Your BMI is 21.9, which means you are Normal
+
